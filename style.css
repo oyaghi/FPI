@@ -1,0 +1,32 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(blob-scene-haikei.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container{
+    margin:20px;
+    width:80%;
+    height:80%;
+    
+}
+
+.image img{
+    
+    width:500px;
+    height:680px;
+    
+}
+
+.info{
+    position:absolute;
+    left:50%;
+    bottom:50%;
+    color:white;
+}
